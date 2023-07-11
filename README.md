@@ -1,7 +1,10 @@
 # RPEA (PyTorch)
 
 Official implementation of RPEA. 
-Our RPEA ranks first on JRDB 3D detection leaderboard.
+Our RPEA ranks first on [JRDB 2019](https://jrdb.erc.monash.edu/leaderboards/detection)
+ and [JRDB 2022](https://jrdb.erc.monash.edu/leaderboards/detection22)
+ 3D pedestrian detection
+leaderboards.
 
 ## 3D Detection Leaderboards
 
